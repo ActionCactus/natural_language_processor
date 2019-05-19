@@ -1,0 +1,9 @@
+C:\Code\nlp\NLP\bin\Debug\netstandard2.0\NLP.deps.json
+C:\Code\nlp\NLP\bin\Debug\netstandard2.0\NLP.dll
+C:\Code\nlp\NLP\bin\Debug\netstandard2.0\NLP.pdb
+C:\Code\nlp\NLP\obj\Debug\netstandard2.0\NLP.csprojAssemblyReference.cache
+C:\Code\nlp\NLP\obj\Debug\netstandard2.0\NLP.csproj.CoreCompileInputs.cache
+C:\Code\nlp\NLP\obj\Debug\netstandard2.0\NLP.AssemblyInfoInputs.cache
+C:\Code\nlp\NLP\obj\Debug\netstandard2.0\NLP.AssemblyInfo.cs
+C:\Code\nlp\NLP\obj\Debug\netstandard2.0\NLP.dll
+C:\Code\nlp\NLP\obj\Debug\netstandard2.0\NLP.pdb
