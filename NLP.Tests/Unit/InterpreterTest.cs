@@ -3,7 +3,7 @@ using Xunit;
 
 namespace NLP.Tests
 {
-    public class UnitTest1
+    public class InterpreterTest
     {
         [Fact]
         public void Test1()

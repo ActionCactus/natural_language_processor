@@ -2,7 +2,7 @@
 
 namespace NLP
 {
-    public class Class1
+    public class Interpreter
     {
     }
 }
