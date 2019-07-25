@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using Xunit;
 using NLP.Tokenization;
-using NLP.Framework;
+using NLP.Framework.Entities.Semantics;
 
 namespace NLP.Tests.Tokenization
 {
@@ -13,6 +13,14 @@ namespace NLP.Tests.Tokenization
         {
             List<Word> tokenizedString = WordTokenizer.tokenize("this is a test sentence");
             Assert.Equal(5, tokenizedString.Count);
+        }
+
+        [Fact]
+        public void TestEmptyString()
+        {
+            List<Word> tokenizedString = WordTokenizer.tokenize("");
+
+            Assert.Equal(0, tokenizedString.Count);
         }
     }
 }
